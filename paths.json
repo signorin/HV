@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/HB/language-masters/en:/",
-    "/content/HB/language-masters/en/:/en/",
-    "/content/HB/language-masters/fr/:/fr/",
-    "/content/HB/language-masters/fr:/fr",
-    "/content/HB/language-masters/es/:/es/",
-    "/content/HB/language-masters/es:/es",
-    "/content/HB/language-masters/ja/:/ja/",
-    "/content/HB/language-masters/ja:/ja",
-    "/content/HB/language-masters/de/:/de/",
-    "/content/HB/language-masters/de:/de",
-    "/content/HB/configuration:/.helix/config.json",
-    "/content/HB/metadata:/metadata.json",
-    "/content/HB/redirects:/redirects.json",
-    "/content/HB/placeholders:/placeholders.json"
+    "/content/HV/language-masters/en:/",
+    "/content/HV/language-masters/en/:/en/",
+    "/content/HV/language-masters/fr/:/fr/",
+    "/content/HV/language-masters/fr:/fr",
+    "/content/HV/language-masters/es/:/es/",
+    "/content/HV/language-masters/es:/es",
+    "/content/HV/language-masters/ja/:/ja/",
+    "/content/HV/language-masters/ja:/ja",
+    "/content/HV/language-masters/de/:/de/",
+    "/content/HV/language-masters/de:/de",
+    "/content/HV/configuration:/.helix/config.json",
+    "/content/HV/metadata:/metadata.json",
+    "/content/HV/redirects:/redirects.json",
+    "/content/HV/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/HB/",
-    "/content/dam/HB/"
+    "/content/HV/",
+    "/content/dam/HV/"
   ]
 }
